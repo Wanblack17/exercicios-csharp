@@ -1,4 +1,5 @@
-﻿using System;
+\\Programa que converte um valor em reais para dolar como base na cotação digitada pelo usuário
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,3 +25,4 @@ namespace Conversão_Dolar
             return x / y;
         }
     } }
+
