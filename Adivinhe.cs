@@ -1,4 +1,6 @@
-﻿using System;
+/*Jogo de adivinhação no qual o usuário tem 10 tentativas para acertar um número entre 0 e 100. A cada tentativa, o programa diz se o jogador deve digitar um numero mais baixo ou mais alto. 
+No final do programa, caso o jogador tenha acertado será mostrado em quantas tentativas ele conseguiu*/
+using System;
 using System.Diagnostics.Eventing.Reader;
 
 namespace ConsoleApp1
@@ -43,3 +45,4 @@ namespace ConsoleApp1
         }
     }
 }
+
