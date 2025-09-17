@@ -5,6 +5,4 @@ A ideia é registrar minha evolução na linguagem e servir como portfólio para
 
 ---
 
-## 📂 Estrutura do Repositório
-Cada exercício está organizado em uma pasta própria, com seus arquivos `.cs` e `.csproj`.
-
+O repositório está em constante em evolução, com um gradual aumento de dificuldade dos exercicios conforme meu conhecimento em C# evolue
