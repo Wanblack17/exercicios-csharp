@@ -7,17 +7,19 @@ Conteúdo
 
 O repositório inclui exercícios sobre diferentes tópicos de C#, como:
 
-Estruturas básicas (variáveis, tipos, operadores)
+Estruturas básicas: variáveis, tipos, operadores
 
-Estruturas de controle (if, switch, loops)
+Estruturas de controle: if, switch, loops
 
-Programação orientada a objetos (classes, herança, interfaces)
+Programação orientada a objetos: classes, herança, interfaces
 
 Coleções e LINQ
 
 Manipulação de arquivos
 
-======================================================================================================================================================================================
+Pequenos projetos e experimentos
+
+Small Projects and Experiments
 C# Exercises
 
 This repository contains C# exercises that I add as I progress in learning the language. It’s a space to practice concepts, test ideas, and track my growth.
@@ -26,11 +28,11 @@ Content
 
 The repository includes exercises on various C# topics, such as:
 
-Basic structures (variables, types, operators)
+Basic structures: variables, types, operators
 
-Control structures (if, switch, loops)
+Control structures: if, switch, loops
 
-Object-oriented programming (classes, inheritance, interfaces)
+Object-oriented programming: classes, inheritance, interfaces
 
 Collections and LINQ
 
