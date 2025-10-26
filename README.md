@@ -17,3 +17,23 @@ Coleções e LINQ
 Manipulação de arquivos
 
 Projetos pequenos e experimentos
+======================================================================================================================================================================================
+C# Exercises
+
+This repository contains C# exercises that I add as I progress in learning the language. It’s a space to practice concepts, test ideas, and track my growth.
+
+Content
+
+The repository includes exercises on various C# topics, such as:
+
+Basic structures (variables, types, operators)
+
+Control structures (if, switch, loops)
+
+Object-oriented programming (classes, inheritance, interfaces)
+
+Collections and LINQ
+
+File handling
+
+Small projects and experiments
