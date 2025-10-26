@@ -1,3 +1,4 @@
+Projetos pequenos e experimentos
 Exercícios de C#
 
 Este repositório contém exercícios de C# que vou adicionando conforme meu aprendizado na linguagem. É um espaço para praticar conceitos, testar ideias e acompanhar minha evolução.
@@ -16,7 +17,6 @@ Coleções e LINQ
 
 Manipulação de arquivos
 
-Projetos pequenos e experimentos
 ======================================================================================================================================================================================
 C# Exercises
 
